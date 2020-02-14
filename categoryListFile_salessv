@@ -1,0 +1,22 @@
+1Elec-ElectRoom|Wide angle shots of room where main electrical panel is
+1Elec-DoorClosed|Close up of area of main electrical panel
+1Elec-DoorOpen|Main electrical panel with cover open
+1Elec-MainBkrRating|Main electrical panel label close up of main breaker rating
+1Elec-MeterFar|Distant shot of electric meter, including mast and meter pan
+1Elec-MeterClose|Close shot of meter showing meter number
+2Docs-BillFront|Page 1 of electric bill
+2Docs-BillBack|Page 2 of electric bill
+2Docs-SARequestForm_SLR|Photo of Signed Site Audit Request form
+2Docs-SARequestForm_Batt|Photo of Signed Battery Site Audit Request form
+2Docs-CompQuote|Shot(s) of competitor quote(s)
+3Exterior-Tree|Distant shot of trees needing trimming or removal
+3Exterior-ShallowRoof|Shot(s) of any roofs that may be considered "shallow pitch" (under 14 degrees)
+3Exterior-SteepRoof|Shot(s) of any roofs that may be considered "steep pitch"
+3Exterior-ShingleEdge|Close up shot of rake showing shingle layers
+3Exterior-RoofCondition|Shot(s) showing general roof condition
+3Exterior-PermittingFlag|Shot(s) showing any possible permitting concerns (pools, decks, etc.)
+3Exterior-TrenchLocation|Shot(s) showing any possible trenching locations
+4Batt-HeatSysFar|Shot(s) of home heating system
+4Batt-HeatSysSpecs|Close up shot of any visible heat system specifications
+4Batt-HeatSysRoom|Wide angle shot(s) of heating system room / enclosure
+4Batt-InstallLocation|Shot(s) of potential battery installation location(s)

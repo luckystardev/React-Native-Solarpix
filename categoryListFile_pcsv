@@ -1,0 +1,100 @@
+1Gen-ArrayHouseFront+Nu|Front showing array area & whole house & house number
+1Gen-ArrayHouseLeft|From left showing array area & whole house (take on angle if necessary)
+1Gen-ArrayHouseRear|From rear showing array area & whole house
+1Gen-ArrayHouseRight|From right showing array area & whole house (take on angle if necessary)
+1Gen-NeighborFront|From ground level below array or any eq facing adjacent property, even if obstructed. (Oy Bay, Scarsdale, etc)
+1Gen-NeighborLeft|From ground level below array or any eq facing adjacent property, even if obstructed. (Oy Bay, Scarsdale, etc)
+1Gen-NeighborRear|From ground level below array or any eq facing adjacent property, even if obstructed. (Oy Bay, Scarsdale, etc)
+1Gen-NeighborRight|From ground level below array or any eq facing adjacent property, even if obstructed. (Oy Bay, Scarsdale, etc)
+1Gen-OtherFront|2nd Building or structure (garage, other)
+1Gen-OtherLeft|2nd Building or structure (garage, other)
+1Gen-OtherRear|2nd Building or structure (garage, other)
+1Gen-OtherRight|2nd Building or structure (garage, other)
+2EServ-Ext-GrndElectConnect|Close up of supplemental grounding electrode connection
+2EServ-Ext-GrndElectPathway|Wide angle of supplemental grounding electrode showing path of conductor
+2EServ-Ext-MeterCondLabel|Close up of conductor labeling inside meter enclosure line side
+2EServ-Ext-MeterEnclsure+Nu|Close up of meter enclosure showing meter number
+2EServ-Ext-MeterLugsLine|Close up of line side lugs inside meter enclosure interior with cover off
+2EServ-Ext-MeterLugsLoad|Close up of load side lugs inside meter enclosure interior with cover off
+2EServ-Ext-POA-CloseUp|Close up of point of attachment
+2EServ-Ext-Riser+POA|Electric Service Riser & Point of attachment  showing entire service
+2EServ-Ext-ServiceEnt-CloseUp|Close up showing size of service entrance conduit
+2EServ-Ext-ServiceEnt+Space|Wide angle showing conduit for service entrance conductors showing length and surrounding space
+2EServ-Ext-Straps+Attachment|Close up of conduit straps or other method of securing
+3EServ-ATS-Breaker|ATS close up breaker
+3EServ-ATS-CondLabelLine|Close up of conductor labeling inside ATS line side
+3EServ-ATS-CondLabelLoad|Close up of conductor labeling inside ATS load side
+3EServ-ATS-Interior|ATS interior
+3EServ-ATS-Labels|ATS label
+3EServ-ATS-LugsLIne|Close up of line side lugs inside ATS interior with cover off
+3EServ-ATS-LugsLoad|Close up of load side lugs inside ATS interior with cover off
+3EServ-ATS-Wide+ConduitPaths|ATS exterior, wide angle showing surrounding area and conduit paths
+4EServ-Net-Router+Ports|Router showing available ports
+4EServ-Net-WIFI-Info|Router showing wi-fi info
+4EServ-Pnls-BeakerLabelsEtc|Main electrical panel label
+4EServ-Pnls-BusRating|Main electrical panel label close up of bus rating
+4EServ-Pnls-DoorClosed|Close up of area of main electrical panel
+4EServ-Pnls-DoorOpen|Main electrical panel with cover open
+4EServ-Pnls-ElectRoom|Wide angle shots of room where main electrical panel is
+4EServ-Pnls-GEC-Path|Wide angle showing GEC Pathway
+4EServ-Pnls-GroundClamp|Water main grounding clamp
+4EServ-Pnls-InteriorCoverOff|Main electrical panel interior with cover off
+4EServ-Pnls-InteriorSpaceBtm|Main electrical panel interior with cover off, bottom gutter space
+4EServ-Pnls-InteriorSpaceLeft|Main electrical panel interior with cover off, left gutter space
+4EServ-Pnls-InteriorSpaceRight|Main electrical panel interior with cover off, right gutter space
+4EServ-Pnls-InteriorSpaceTop|Main electrical panel interior with cover off, top gutter space
+4EServ-Pnls-MainBkrRating|Main electrical panel label close up of main breaker rating
+5PvEq-AcCombiLoc|Wide angle of AC combiner location
+5PvEq-AcConduitRun1|Wide angle of AC conduit run route
+5PvEq-AcConduitRun2|Wide angle of AC conduit run #2 route
+5PvEq-DataLoc|Wide angle of PVS-5 location if different then AC combiner
+5PvEq-EthernetRoute|Ethernet route
+6BattEq-EquipLocationWide|Wide angle of All Equipment Location
+6BattEq-GenerationPnl|Wide angle Location of Generation Panel
+6BattEq-NewMainDisco|Wide angle of Location of new Main Service Disconnect
+6BattEq-Other|Wide angle Location of Ill Panel
+6BattEq-TPW-Gateway|Wide angle Location of Tesla Gateway
+6BattEq-TPW#1Loc|Wide angle Location of Tesla powerwall
+6BattEq-TPW#2Loc|Wide angle Location of Tesla powerwall #2
+7StructRaftA-Ceiling|Roof #1 Ceiling from room below
+7StructRaftA-CollarTie|Roof #1 Collar Tie
+7StructRaftA-Damage|Roof #1 Damage(Cracks, Splits, Water, Other)
+7StructRaftA-HangingEq|Roof #1 Hanging Equipment
+7StructRaftA-KneeWall|Roof #1 Knee Wall
+7StructRaftA-Rafters|Roof #1 Rafters
+7StructRaftB-Ceiling|Roof #2 Ceiling from room below
+7StructRaftB-CollarTie|Roof #2 Collar Tie
+7StructRaftB-Damage|Roof #2 Damage(Cracks, Splits, Water, Other)
+7StructRaftB-HangingEq|Roof #2 Hanging Equipment
+7StructRaftB-KneeWall|Roof #2 Knee Wall
+7StructRaftB-Rafters|Roof #2 Rafters
+7StructRaftC-Ceiling|Roof #3 Ceiling from room below
+7StructRaftC-CollarTie|Roof #3 Collar Tie
+7StructRaftC-Damage|Roof #3 Damage(Cracks, Splits, Water, Other)
+7StructRaftC-HangingEq|Roof #3 Hanging Equipment
+7StructRaftC-KneeWall|Roof #3 Knee Wall
+7StructRaftC-Rafters|Roof #3 Rafters
+7StructRaftD-Ceiling|Roof #4 Ceiling from room below
+7StructRaftD-CollarTie|Roof #4 Collar Tie
+7StructRaftD-Damage|Roof #4 Damage(Cracks, Splits, Water, Other)
+7StructRaftD-HangingEq|Roof #4 Hanging Equipment
+7StructRaftD-KneeWall|Roof #4 Knee Wall
+7StructRaftD-Rafters|Roof #4 Rafters
+7StrcutRaftE-GenerationPnl|Roof #5 Ceiling from room below
+7StrcutRaftE-NewMainDisco|Roof #5 Collar Tie
+7StrcutRaftE-Other|Roof #5 Damage(Cracks, Splits, Water, Other)
+7StrcutRaftE-TPW-Gateway|Roof #5 Hanging Equipment
+7StrcutRaftE-TPW#1Loc|Roof #5 Knee Wall
+7StrcutRaftE-TPW#2Loc|Roof #5 Rafters
+7StructRaftF-Ceiling|Roof #6 Ceiling from room below
+7StructRaftF-CollarTie|Roof #6 Collar Tie
+7StructRaftF-Damage|Roof #6 Damage(Cracks, Splits, Water, Other)
+7StructRaftF-HangingEq|Roof #6 Hanging Equipment
+7StructRaftF-KneeWall|Roof #6 Knee Wall
+7StructRaftF-Rafters|Roof #6 Rafters
+7StructRaftG-Ceiling|Roof #7  Ceiling from room below
+7StructRaftG-CollarTie|Roof #7  Collar Tie
+7StructRaftG-Damage|Roof #7  Damage(Cracks, Splits, Water, Other)
+7StructRaftG-HangingEq|Roof #7  Hanging Equipment
+7StructRaftG-KneeWall|Roof #7  Knee Wall
+7StructRaftG-Rafters|Roof #7 Rafters

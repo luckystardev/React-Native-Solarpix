@@ -1,0 +1,39 @@
+1Rack-A+F,CloseUp|Close picture of a single anchor / flashing assembly installed on the roof
+1Rack-A+F,GenArea|General picture of a subarray worth of anchor / flashing assemblies installed
+1Rack-Rails|Racking/rails installed for each subarray, prior to module install
+2Elect-CondPen|Conduit rooftop penetration
+2Elect-Ground,Rails|Rail ground system: N-S rail rail connections, rail splice grounding, for each array, prior to module install
+2Elect-JB,Mount+Signage|Junction/combiner box(s) covered showing attachment / mounting / support & EmPower signage for each array
+2Elect-JB,Uncovered|Junction/combiner box(s) UNcovered showing grounding & all conductors, demonstrates strain relief, for each array
+2Elect-WireMgt|Wire management, firmly supported by zip ties, etc, prior to module install
+3Inv-Ext+Label|Inverter exterior & manufacturer labeling
+3Inv-Int+Term,Grd|Inverter interior showing termnations & grounding (Not applicable for AC modules)
+3Inv-Signage|If applicable, any EmPower signage installed on a string inverter (ex, DC disco on SMA, SolarEdge, etc)
+4Comb-ConduitSeal|For every penetration to conidioned space, sealed (duck seal & geocel around condutors in conduit)
+4Comb-GEC-Path|Pic sequence showing GEC path from inverter &/or combi/disco to grounding electrode, including irreversible splices & taps
+4Comb-Interior|AC comb, interior, showing bus, breakers, & label with bus rating
+4Comb-Label|AC comb manufacturer label with bus rating, etc
+4Comb-Signage|AC comb EmPower signage
+4Mod-Grounding|Generic picture(s) showing how modules are grounded method
+4Mod-Label|Module manufacturer label including make, model, serial number & wattage
+5Arry-EndClip|Pic of module end clips, after mod install
+5Arry-Horizon,South|View of horizon facing South, taken from top center of array
+5Arry-ModCount|Single or multiple pictures of array(s) such that modules can be counted
+5Arry-WireMgt|Good wire management & support, each subarray, after mod install, looking under the array
+5Disc-Full+Signage|AC disco, exterior, showing any added EmPower signage.  See desired position of switch in work pkg.
+5Disc-Interior|AC disco, interior, showing all wiring, grounding & OCPD
+5Disc-Label|AC disco, showing manuf label w/ NEMA rating
+6Grid-Full+Signage|MSP or Tap exterior pic of EmPower signage
+6Grid-Interior|MSP or Tap JB interior, overall pic
+6Grid-Label|MSP or other label showing bus rating, specs, etc (as applicable)
+6Grid-Meter|Picture of net (or other) meter, so values and labels can be read
+6Grid-Tap,CTs|MSP or Tap JB interior, closeup of tap & CTs
+7Data-PVS5|Pic of interior of data enclosure
+7Data-Router|Client router with ethernet cable plugged into visible port number & labled
+7House-Address|Verification of home address taken from street view
+7House-Array|Aesthetically pleasing, overall house & array photos (best pic gets $100 every 6mo from marketing)
+7House-EquipFull|One full fame pic of elect equip, inverters (if applicable) & visible signage
+7House-EquipLocation|Wide view of elect equipment making clear where elect equip is mounted / located on property
+7House-LawnSign|Pic of lawn sign in front of house with as much array in photo as possible (included in best pic contest)
+8Spec-Battery|Battery Back-Up Photos - Photo showing battery back-up system and racking.
+8Spec-KneeWall|Knee wall pics
